@@ -1,4 +1,4 @@
-bmi-calculator
+BMI-calculator
 ==============
 
 maven web-app sample - bmi calculator
