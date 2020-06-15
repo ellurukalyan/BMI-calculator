@@ -3,4 +3,4 @@ BMI-Calculator
 
 maven web-app sample - bmi calculator
 
-Demo Review hello
+Demo Review small chages
