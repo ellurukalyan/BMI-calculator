@@ -13,8 +13,8 @@
     </style>
 </head>
 <body>
-  <span class="title"><h2>Welcome to BMI Calculator</h2></span>
-  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c1/1d/fa/c11dfafd-a965-fc48-8961-825a8c75f549/source/512x512bb.jpg" alt="" />
+  <span class="title"> <center><h2>Welcome to BMI Calculator</h2> </center></span>
+  <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c1/1d/fa/c11dfafd-a965-fc48-8961-825a8c75f549/source/512x512bb.jpg" alt="" / width="500" height="600">
 	<h3>
 		<span class="author">
 		<form action="results.jsp" method="get">
