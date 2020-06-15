@@ -13,7 +13,9 @@
     }
 
     .author {
-        color: red;
+        color: white;
+        text-size: 1em;
+      font-size: 26px;
     }
       .button {
   background-color: #4CAF50; /* Green */
@@ -27,6 +29,7 @@
 }
     </style>
 </head>
+  <div style="background-image: url('https://hwm.wisconsin.edu/wp-content/uploads/2017/08/Fotolia_73687844_Subscription_XXL_featured.jpg');">
 <body>
   <center><h1>Welcome to BMI Calculator</h1></center>
   <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/c1/1d/fa/c11dfafd-a965-fc48-8961-825a8c75f549/source/512x512bb.jpg" alt="" width="300" height="300" />
@@ -45,5 +48,6 @@
           </span>
 		</form>
  
-</body>
+</body>  
+  </div>
 </html>
