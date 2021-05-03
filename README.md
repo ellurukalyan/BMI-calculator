@@ -5,6 +5,4 @@ maven web-app sample - bmi calculator
 
 Small Changes remove 
 
-Testing Pull request once more
-
-Yes testing
+Testing Pull request once more Yes testing
