@@ -3,7 +3,7 @@ BMI-Calculator
 
 maven web-app sample - bmi calculator
 
-Changes New done - to test Fetch
+Changes New done - Now time for Pull
 
 
 
